@@ -81,7 +81,7 @@ _vista en todos los ejes del simulador del brazo robotico_
 [![image2.png](https://i.postimg.cc/FRmfm9kj/image2.png)](https://postimg.cc/VSGsWPR6)
 
 
-## video of the practice carried out
+## video of the practice carried out physically
 _video final de la practica llevada a fisico_
 
 https://github.com/Gaddiel0710/FESTO-robotic-arm-control/assets/135661300/c4a121f6-21d0-4fb9-818b-18f538a2204e
